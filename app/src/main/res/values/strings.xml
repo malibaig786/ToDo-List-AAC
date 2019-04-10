@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_priority">Priority</string>
+    <string name="edit_to_do_label">Edit ToDo</string>
+    <string name="add_new_todo_label">Add new ToDo</string>
+</resources>
